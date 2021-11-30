@@ -3,6 +3,9 @@
 ## You can view this project by the link mentioned below:
 ### [http://coronavirus-tracker-by-shahid.surge.sh/](http://coronavirus-tracker-by-shahid.surge.sh/)
 
+# Demo on Desktop:
+![Preview](./covid19-tracker-demo.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
